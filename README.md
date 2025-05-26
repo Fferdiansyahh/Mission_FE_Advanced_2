@@ -4,4 +4,3 @@ VITE_FIREBASE_PROJECT_ID=video-belajar-2740c
 VITE_FIREBASE_STORAGE_BUCKET=video-belajar-2740c.firebasestorage.app
 VITE_FIREBASE_MESSAGING_SENDER_ID=741665677389
 VITE_FIREBASE_APP_ID=1:741665677389:web:44c09dd3ae2bea874cfc04
-git remote add origin https://github.com/Fferdiansyahh/Mission_FE_Advanced_2.git
